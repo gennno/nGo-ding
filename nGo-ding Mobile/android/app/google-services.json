@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "452668032443",
+    "firebase_url": "https://wmk-ngo-ding-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wmk-ngo-ding",
+    "storage_bucket": "wmk-ngo-ding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452668032443:android:9a410671b1ee74d0bef09e",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qw8jz918bw-MamXAJAjbOR6CwBLmN-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452668032443:android:ef71441abfa1829abef09e",
+        "android_client_info": {
+          "package_name": "com.example.wmk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qw8jz918bw-MamXAJAjbOR6CwBLmN-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

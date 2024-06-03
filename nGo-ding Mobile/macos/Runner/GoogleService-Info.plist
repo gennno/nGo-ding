@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAQkhCwBZ1BegWrgdtwfXZKr3qVP3s2q4U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>452668032443</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wmk.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>wmk-ngo-ding</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wmk-ngo-ding.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:452668032443:ios:883bb3eb229e8714bef09e</string>
+	<key>DATABASE_URL</key>
+	<string>https://wmk-ngo-ding-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
